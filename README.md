@@ -151,5 +151,5 @@ Total subscriptions: 10000
 
 ## Team
 
-Filimon David-Christian
+Filimon David-Christian &
 Pintescu Sebastian
